@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736732329341",
+    "project_id": "pixel-bot-cc860",
+    "storage_bucket": "pixel-bot-cc860.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736732329341:android:b34f5661e122764e028814",
+        "android_client_info": {
+          "package_name": "com.example.visioniq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736732329341-m9l11ai7d6lnh8mf46j3kf1q524otbg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvaWshof-rEbZUYj0J8gj-j1HQbfCecvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736732329341-m9l11ai7d6lnh8mf46j3kf1q524otbg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
