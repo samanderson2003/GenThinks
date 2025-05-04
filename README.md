@@ -24,11 +24,13 @@ GenThinks is a cutting-edge Flutter application that enables users to upload ima
 - OpenAI GPT-4o API for AI chat responses.
 - GitHub for version control.
 
-## 🎥 Demo & Screenshots
+## 🎥 Demo Video
 
 Watch the app in action:
 
-[![GenThinks Demo Video](https://drive.google.com/file/d/1kvuV7AvRQ6SYeCPIO9oIYGpWWC9I5jfd/view?usp=drivesdk)]
+## Watch the app in action
+
+[![GenThinks Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1kvuV7AvRQ6SYeCPIO9oIYGpWWC9I5jfd/view?usp=drivesdk)
 
 ## 📲 Download APK
 
