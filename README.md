@@ -43,7 +43,7 @@ You can download and install the APK from the link below:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/GenThinks.git
+git clone https://github.com/samanderson2003/GenThinks.git
 cd GenThinks
 ```
 
